@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Create-React-App/static/css/main.073c9b0a.css",
-    "main.js": "/Create-React-App/static/js/main.baf1f18a.js",
-    "static/js/787.b701888c.chunk.js": "/Create-React-App/static/js/787.b701888c.chunk.js",
-    "static/media/logo.svg": "/Create-React-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Create-React-App/index.html",
-    "main.073c9b0a.css.map": "/Create-React-App/static/css/main.073c9b0a.css.map",
-    "main.baf1f18a.js.map": "/Create-React-App/static/js/main.baf1f18a.js.map",
-    "787.b701888c.chunk.js.map": "/Create-React-App/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/Todo-React-Functional-Components/static/css/main.f0c700db.css",
+    "main.js": "/Todo-React-Functional-Components/static/js/main.d694d529.js",
+    "index.html": "/Todo-React-Functional-Components/index.html",
+    "main.f0c700db.css.map": "/Todo-React-Functional-Components/static/css/main.f0c700db.css.map",
+    "main.d694d529.js.map": "/Todo-React-Functional-Components/static/js/main.d694d529.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.baf1f18a.js"
+    "static/css/main.f0c700db.css",
+    "static/js/main.d694d529.js"
   ]
 }
