@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Todo-React-Class-Components/static/css/main.3ec42403.css",
-    "main.js": "/Todo-React-Class-Components/static/js/main.e0bfaa01.js",
-    "index.html": "/Todo-React-Class-Components/index.html",
-    "main.3ec42403.css.map": "/Todo-React-Class-Components/static/css/main.3ec42403.css.map",
-    "main.e0bfaa01.js.map": "/Todo-React-Class-Components/static/js/main.e0bfaa01.js.map"
+    "main.css": "/Mobile-Product-Sale-Website/static/css/main.84487ea8.css",
+    "main.js": "/Mobile-Product-Sale-Website/static/js/main.b8a91d62.js",
+    "index.html": "/Mobile-Product-Sale-Website/index.html",
+    "main.84487ea8.css.map": "/Mobile-Product-Sale-Website/static/css/main.84487ea8.css.map",
+    "main.b8a91d62.js.map": "/Mobile-Product-Sale-Website/static/js/main.b8a91d62.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ec42403.css",
-    "static/js/main.e0bfaa01.js"
+    "static/css/main.84487ea8.css",
+    "static/js/main.b8a91d62.js"
   ]
 }
