@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Weather-App/static/css/main.39dc23bb.css",
-    "main.js": "/React-Weather-App/static/js/main.1ad63a9a.js",
-    "static/media/website.jpg": "/React-Weather-App/static/media/website.76d66501ce1b7ab90d49.jpg",
-    "index.html": "/React-Weather-App/index.html",
-    "main.39dc23bb.css.map": "/React-Weather-App/static/css/main.39dc23bb.css.map",
-    "main.1ad63a9a.js.map": "/React-Weather-App/static/js/main.1ad63a9a.js.map"
+    "main.css": "/Netflix-Page-React/static/css/main.ff99cb73.css",
+    "main.js": "/Netflix-Page-React/static/js/main.cf7fef48.js",
+    "index.html": "/Netflix-Page-React/index.html",
+    "main.ff99cb73.css.map": "/Netflix-Page-React/static/css/main.ff99cb73.css.map",
+    "main.cf7fef48.js.map": "/Netflix-Page-React/static/js/main.cf7fef48.js.map"
   },
   "entrypoints": [
-    "static/css/main.39dc23bb.css",
-    "static/js/main.1ad63a9a.js"
+    "static/css/main.ff99cb73.css",
+    "static/js/main.cf7fef48.js"
   ]
 }
