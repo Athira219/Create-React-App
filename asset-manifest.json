@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Netflix-Page-React/static/css/main.ff99cb73.css",
-    "main.js": "/Netflix-Page-React/static/js/main.cf7fef48.js",
-    "index.html": "/Netflix-Page-React/index.html",
-    "main.ff99cb73.css.map": "/Netflix-Page-React/static/css/main.ff99cb73.css.map",
-    "main.cf7fef48.js.map": "/Netflix-Page-React/static/js/main.cf7fef48.js.map"
+    "main.css": "/React-Olx-Project/static/css/main.0b872f4d.css",
+    "main.js": "/React-Olx-Project/static/js/main.c84103e3.js",
+    "static/media/olx-logo.png": "/React-Olx-Project/static/media/olx-logo.b3f099a2fe7978c70944.png",
+    "index.html": "/React-Olx-Project/index.html",
+    "main.0b872f4d.css.map": "/React-Olx-Project/static/css/main.0b872f4d.css.map",
+    "main.c84103e3.js.map": "/React-Olx-Project/static/js/main.c84103e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff99cb73.css",
-    "static/js/main.cf7fef48.js"
+    "static/css/main.0b872f4d.css",
+    "static/js/main.c84103e3.js"
   ]
 }
